@@ -1,0 +1,2 @@
+# Pomco-FiveM
+skript
